@@ -9,8 +9,8 @@
     "react-router-dom": "^6.21.3"
   },
   "scripts": {
-    "dev": "parcel watch index.html",
-    "build": "parcel build index.html"
+    "build": "parcel build public/index.html",
+    "heroku-postbuild": "parcel build public/index.html"
   },
   "name": "client",
   "version": "1.0.0",
