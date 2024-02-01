@@ -1,6 +1,9 @@
 {
   "name": "dennegangen",
   "version": "1.0.0",
+  "engines": {
+    "node": "20.x"
+  },
   "description": "��#\u0000 \u0000t\u0000e\u0000s\u0000t\u00001\u0000\r\u0000 \u0000",
   "main": "index.js",
   "scripts": {

@@ -6,7 +6,7 @@
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
-/dist
-node_modules
-.parcel-cache
-/.idea/
+node_modules/
+.idea/
+dist/
+.parcel-cache/
