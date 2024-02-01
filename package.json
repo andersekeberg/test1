@@ -14,7 +14,6 @@
     "build:client": "cd client && npm install --include=dev && npm run build",
     "build:server": "cd server && npm install",
     "start": "cd server && npm start"
-
   },
   "keywords": [],
   "author": "",
